@@ -45,7 +45,7 @@ summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
 summary = summarizer(restored, max_length=120, min_length=30, do_sample=False)
 print(summary[0]['summary_text'])
 
-!pip install keybert  #Remove for deployment#
+
 
 from keybert import KeyBERT
 kw_model = KeyBERT()
