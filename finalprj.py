@@ -31,7 +31,7 @@ prj
 prj_join="".join([line.text for line in prj])
 prj_join
 
-!pip install deepmultilingualpunctuation
+
 
 from deepmultilingualpunctuation import PunctuationModel
 
