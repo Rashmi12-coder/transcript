@@ -1,7 +1,7 @@
 streamlit
 youtube-transcript-api==1.2.0
 transformers
-deepmultilingualpunctuation
+deepmultilingualpunctuation==1.0.1
 keybert
 sentence-transformers
 scikit-learn
