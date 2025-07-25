@@ -1,0 +1,10 @@
+streamlit
+youtube-transcript-api==1.2.0
+transformers
+deepmultilingualpunctuation
+keybert
+sentence-transformers
+scikit-learn
+torch
+
+
